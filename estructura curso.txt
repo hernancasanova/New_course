@@ -1,0 +1,7 @@
+Unidad 1: Variables.
+-Tópico 1: declaración de inicialización.
+-Tópico 2: Tipos de datos primitivos.
+Unidad 2: Decisiones.
+-Tópico 1: Comparaciones.
+-Tópico 2: if,if-else.
+
